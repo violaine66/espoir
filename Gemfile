@@ -27,7 +27,7 @@ gem "stimulus-rails"
 gem "jbuilder"
 
 gem 'sassc-rails'
-
+gem "dotenv-rails"
 gem 'bootstrap', '~> 5.3.0'
 gem 'simple_form', '~> 5.3'
 gem 'font-awesome-sass', '~> 6.4.2'
