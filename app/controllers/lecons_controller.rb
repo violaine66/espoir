@@ -1,0 +1,3 @@
+class LeconsController < ApplicationController
+  
+end

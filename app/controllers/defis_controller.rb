@@ -1,0 +1,2 @@
+class DefisController < ApplicationController
+end
