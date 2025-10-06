@@ -4,12 +4,4 @@
 @import "bootstrap";
 @import "font-awesome";
 
-
-body {
-  padding: 0;
-  margin: 0;
-  background-color: #99d98c;
-}
-.img-fluid {
-  border-radius: 10px;
-}
+@import "pages/home";
